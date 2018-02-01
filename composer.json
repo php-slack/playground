@@ -1,0 +1,15 @@
+{
+    "name": "php-slack/playground",
+    "description": "PHP Slack messages sending and tests",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Chibrikin",
+            "email": "alek13.me@gmail.com"
+        }
+    ],
+    "require": {
+        "alek13/slack": "^1.10"
+    }
+}
