@@ -10,7 +10,7 @@ $client = new Maknz\Slack\Client($incomingWebhook);
 
 $client
     ->attach([
-        'text' => 'Attachment text here. (No color setted)',
+        'text' => 'Attachment text here. (No color set)',
     ])
     ->attach([
         'text'  => 'Attachment with `good` color',
