@@ -35,5 +35,5 @@ $client
             ],
         ],
     ])
-    ->send('Test message with buttons in attachment. (Using `$client->attach()`)')
+    ->send('Test message with *buttons* in attachment. (Using `$client->attach()`)')
 ;
