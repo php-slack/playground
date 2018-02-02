@@ -1,6 +1,6 @@
 # Playground for [`alek13/slack`](https://github.com/alek13/slack)
 
-> Examples how to use and `test` script to see the sent message real result.
+Examples how to use and **`test` script** to see the sent message **real result**.
 
 ## Install
 
@@ -25,12 +25,12 @@ for example:
 
 ## View the code
 
-Explore `examples` folder to see how it works.
+Explore `examples` folder to see how it works & play with it.
 
 ## See the real message
 
 All messages you are playing with, will be comes into `#tests` channel in our [PHP-Slack Workspace](https://join.slack.com/t/php-slack/shared_invite/enQtMjk1OTExNDkzMjg1LTk5ODg3MGE1OThlYzZlM2U0N2I5Y2FhM2NiYmFlMjE1MDNiOWRjMjc1ZDIwNWZlNzBkZWQ2ZWM1NzdmMjM5YzQ).
 
-And you can see how it really looks!!
+And you can see how it really looks!
 
-So [![Slack Welcome](https://img.shields.io/badge/you%20are-welcome-brightgreen.svg)](https://join.slack.com/t/php-slack/shared_invite/enQtMjk1OTExNDkzMjg1LTk5ODg3MGE1OThlYzZlM2U0N2I5Y2FhM2NiYmFlMjE1MDNiOWRjMjc1ZDIwNWZlNzBkZWQ2ZWM1NzdmMjM5YzQ)
+So [![Slack Welcome](https://img.shields.io/badge/you%20are-welcome-brightgreen.svg)](https://join.slack.com/t/php-slack/shared_invite/enQtMjk1OTExNDkzMjg1LTk5ODg3MGE1OThlYzZlM2U0N2I5Y2FhM2NiYmFlMjE1MDNiOWRjMjc1ZDIwNWZlNzBkZWQ2ZWM1NzdmMjM5YzQ) !!!
