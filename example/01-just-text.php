@@ -4,4 +4,4 @@ $incomingWebhook = 'https://hooks.slack.com/services/T8PPHELCC/B92L0M9V3/L47NKlY
 
 $client = new Maknz\Slack\Client($incomingWebhook);
 
-$client->send('This just simple text');
+$client->send('This is just simple text');
