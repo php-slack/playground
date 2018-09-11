@@ -1,4 +1,4 @@
-# Playground for [`alek13/slack`](https://github.com/alek13/slack)
+# Playground for [`php-slack/slack`](https://github.com/php-slack/slack)
 
 Examples how to use and **`test` script** to see the sent message **real result**.
 
