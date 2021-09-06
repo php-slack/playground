@@ -1,6 +1,6 @@
 <?php
 
-$incomingWebhook = 'https://hooks.slack.com/services/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';
+$incomingWebhook = 'https://hooks.slack.com/services/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';
 
 /** @var \Maknz\Slack\Client|\Maknz\Slack\Message $client */
 $client = new Maknz\Slack\Client($incomingWebhook);
